@@ -4,7 +4,7 @@
 
 Target-specific fluorescent probes are versatile tools for target visualization. However, rational probe design is constrained by the dual challenges of optimizing target binding and photophysical performance, as these two objectives are governed by distinct and often competing chemical principles. Here, we introduce a convergent strategy that integrates structure-aware generative artificial intelligence with physics- and synthesis-constrained fragment growth to generate targetstructure-guided molecules, both of which operate within a shared photophysical framework that promotes convergent scaffold discovery. Applied to α-synuclein fibrils, a central target in Parkinson’s disease, our strategy converged on a new probe (CLead1), which was subsequently validated to exhibit a strong turn-on response and exceptional selectivity over other amyloids. CLead1 further enabled high-throughput screening that identified Dryocrassin ABBA as a neuroprotective inhibitor of α-synuclein fibrillization. This work establishes a general strategy for advancing target-specific fluorescent probe discovery from visualization and screening towards therapeutic exploration.
 
-![](assets/illustration of strategy-1771125016627-2.png)
+![](assets/illustration.png)
 
 ## Installation
 
